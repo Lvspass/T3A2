@@ -33,3 +33,7 @@
 - diseño de la solucion
 ----------------------------------------------------------------------------------------------
 - diagrama de clases 
+- ![](https://github.com/Lvspass/T3A2/blob/main/Horario.zip)
+- -------------------------------------------------------------------------------------------
+- Etapa 4= Desarrollo de la solucion 
+- 
